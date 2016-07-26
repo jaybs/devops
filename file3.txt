@@ -1,1 +1,2 @@
 This is File3 to check via the script all 3 opertaions add commit and push
+Second edit to test again
